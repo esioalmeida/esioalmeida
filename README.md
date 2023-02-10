@@ -1,6 +1,12 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esio1998&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esio1998&layout=compact&theme=chartreuse-dark)
+ 
+### Redes Sociais:
+ 
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511946592318)
+
+### Tecnologias que uso:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="esio-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
