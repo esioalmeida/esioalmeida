@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Ésio Almeida 👋
+
+### About
+I'm a Web developer. And, i'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀👨‍🎓🍃.
+
+### Current stack
+- Frontend: `Html5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esioalmeida&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esioalmeida&layout=compact&theme=chartreuse-dark)
  
