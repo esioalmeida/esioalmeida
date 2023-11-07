@@ -1,7 +1,7 @@
 ## Hi there, I'm Ésio Almeida 👋
 
 ### About
-I'm a Web developer. And, i'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀👨‍🎓🍃.
+I'm a Web developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀👨‍🎓🍃.
 
 ### Current stack
 - Frontend: `Html5`, `CSS3`, `JavaScript`
